@@ -1,0 +1,26 @@
+﻿  main.cpp
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\Libraries\include\GLFW\glfw3.h(3235,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'main.cpp')
+  
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\model.hpp(100,31): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'main.cpp')
+  
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\animation.hpp(76,21): warning C4018: '<': signed/unsigned 不相符
+  (編譯來源檔案 'main.cpp')
+  
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\animation.hpp(94,32): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'main.cpp')
+  
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(185,67): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(185,67): warning C4267:         with
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(185,67): warning C4267:         [
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(185,67): warning C4267:             _Ty=unsigned int
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(185,67): warning C4267:         ]
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(232,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(488,11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(489,11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(493,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(494,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(495,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\main.cpp(496,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  hw4.vcxproj -> D:\CSIE_COURSE\Computer-Graphic\hw4_SkeletonAnimation\hw4\x64\Debug\hw4.exe
